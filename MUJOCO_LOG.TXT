@@ -1,0 +1,48 @@
+Thu Dec  7 17:51:25 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 17:51:58 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 17:52:21 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 17:53:03 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 17:53:37 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:02:39 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:02:58 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:03:11 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:03:45 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:04:18 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:04:27 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:05:49 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:06:05 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:08:10 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:15:43 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
+Thu Dec  7 18:16:34 2023
+ERROR: Could not open activation key file C:\Users\TJ\.mujoco\mujoco200\bin
+
